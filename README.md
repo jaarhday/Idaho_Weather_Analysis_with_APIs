@@ -2,6 +2,8 @@
 
 ## Overview
 
+**you may need to download the HTML file to view the project**
+
 This project demonstrates an end-to-end data ingestion and analysis workflow using real-world weather data. The goal is to collect geographic data for cities in Idaho, retrieve historical and forecast weather data from a public API, and process the results into a structured format suitable for analysis.
 
 The project emphasizes API usage, data wrangling, and scalable data processing techniques commonly used in data engineering and analytics roles.
